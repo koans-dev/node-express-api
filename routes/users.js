@@ -9,7 +9,7 @@ import {
 
 const router = express.Router();
 
-let users = [];
+
 
 router.get("/", getUsers);
 
